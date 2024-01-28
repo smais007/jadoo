@@ -1,5 +1,19 @@
-.volkhov-regular {
+.volkhov {
   font-family: "Volkhov", serif;
   font-weight: 400;
   font-style: normal;
+}
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text-color {
+  color: #212832;
+}
+
+ul li,
+p {
+  font-size: 1.063rem;
 }
