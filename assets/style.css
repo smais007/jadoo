@@ -18,6 +18,10 @@ p {
   font-size: 1.063rem;
 }
 
+p {
+  text-align: center;
+}
+
 .paragraph {
   color: #5e6282;
 }
