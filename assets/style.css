@@ -34,3 +34,9 @@ p {
     0px 64.815px 46.852px 0px rgba(0, 0, 0, 0.02),
     0px 100px 80px 0px rgba(0, 0, 0, 0.02);
 }
+
+.news-border{
+  border-radius: 129px 20px 20px 20px;
+
+background: var(--light-color, #DFD7F9);
+}
